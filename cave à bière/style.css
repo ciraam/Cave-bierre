@@ -1,0 +1,19 @@
+form, h1, h2, li, a, p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+html {
+    background-color: #075c316b;
+}
+#image {
+    position: relative;
+    top: 5px;
+    left: 525px;
+}
+h1 {
+    text-decoration: underline overline #035c3e;
+}
+h2 {
+    text-decoration: underline;
+}
